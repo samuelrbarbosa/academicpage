@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://samuelrbarbosa.github.io/academicpage/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samuelrbarbosa.github.io/academicpage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://samuelrbarbosa.github.io/academicpage/about/</link>
       <pubDate>Fri, 19 Jun 2020 17:57:35 -0300</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://samuelrbarbosa.github.io/academicpage/about/</guid>
       <description>Vejamos. Tenho que configurar para tirar o draft</description>
     </item>
     
