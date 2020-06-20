@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prof. Dr. Samuel Barbosa (USP)</title>
-    <link>https://samuelrbarbosa.github.io/academicpage/</link>
-    <description>Recent content on Prof. Dr. Samuel Barbosa (USP)</description>
+    <title>Blogs on Prof. Dr. Samuel Barbosa (USP)</title>
+    <link>https://samuelrbarbosa.github.io/academicpage/blog/</link>
+    <description>Recent content in Blogs on Prof. Dr. Samuel Barbosa (USP)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 19 Jun 2020 21:42:28 -0300</lastBuildDate>
     
-	<atom:link href="https://samuelrbarbosa.github.io/academicpage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samuelrbarbosa.github.io/academicpage/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://samuelrbarbosa.github.io/academicpage/blog/teste/</guid>
       <description>Este é um exemplo de blog hospedado no Github, escrito a partir do terminal.
 Preciso trabalhar mais no melhor workflow.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://samuelrbarbosa.github.io/academicpage/about/</link>
-      <pubDate>Fri, 19 Jun 2020 17:57:35 -0300</pubDate>
-      
-      <guid>https://samuelrbarbosa.github.io/academicpage/about/</guid>
-      <description>Vejamos. Tenho que configurar para tirar o draft</description>
     </item>
     
   </channel>

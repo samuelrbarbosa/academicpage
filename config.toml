@@ -1,4 +1,18 @@
 baseURL = "https://samuelrbarbosa.github.io/academicpage/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "pt-br"
+title = "Prof. Dr. Samuel Barbosa (USP)"
 theme = "tale"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 2

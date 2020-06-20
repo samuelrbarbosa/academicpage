@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samuelrbarbosa.github.io/academicpage/sabedoria/</loc>
-    <lastmod>2020-06-19T18:34:19-03:00</lastmod>
+    <loc>https://samuelrbarbosa.github.io/academicpage/blog/</loc>
+    <lastmod>2020-06-19T21:42:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academicpage/</loc>
+    <lastmod>2020-06-19T21:42:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academicpage/blog/teste/</loc>
+    <lastmod>2020-06-19T21:42:28-03:00</lastmod>
   </url>
   
   <url>
@@ -14,10 +24,6 @@
   
   <url>
     <loc>https://samuelrbarbosa.github.io/academicpage/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://samuelrbarbosa.github.io/academicpage/</loc>
   </url>
   
   <url>
